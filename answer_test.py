@@ -1,4 +1,4 @@
-import solution as answer
+import answer
 import pytest
 
 
